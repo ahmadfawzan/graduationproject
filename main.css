@@ -1,0 +1,40 @@
+
+* {
+  box-sizing: border-box;
+}
+body
+{
+	margin:0;
+	padding:0;
+}
+.main{
+	overflow:auto;
+background-color:rgba(245,245,245,0.4);
+
+	
+}
+.main-pro{
+	float:left;
+	 box-shadow:0 4px 4px 0;
+	width:23%;
+	overflow:auto;
+	border:1px solid #AFAFAF;
+	margin:13px;
+	padding:10px;
+	background-color:white;
+}
+.main-pro img {
+	height:250px;
+	width:100%;
+}
+.main-pro p{
+	text-align:center;
+	font-size:20px;
+	font-weight: bold;
+    font-family:American Typewriter, serif;	
+}
+input[type=text],input[type=email],input[type=tel] {
+	background-color:lightblue;
+	width:50%;
+	height:50px;
+}

@@ -1,0 +1,82 @@
+html,body{
+
+background-repeat:no-repeat;
+background-size:100% 100%;
+font-family: sans-serif;
+}
+
+.container
+{
+height: 90%;
+align-content: center;
+padding:80px 0 0 0;
+}
+
+.card{
+overflow:auto;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.3) !important;
+}
+
+.cardsign{
+	
+overflow:auto;
+margin-top: auto;
+margin-bottom: auto;
+width: 400px;
+background-color: rgba(0,0,0,0.4) !important;
+float:left;
+text-align:left;
+	
+}
+.card-header h3{
+color: white;
+text-align:center;
+}
+
+.input-group-prepend span{
+width: 50px;
+background-color: #2ecc71;
+color: black;
+border:0 !important;
+}
+.login_btn{
+color: black;
+background-color: #2ecc71;
+width: 100px;
+}
+
+.login_btn:hover{
+color: black;
+background-color: white;
+}
+
+.links{
+color: white;
+}
+
+.links a{
+margin-left: 4px;
+}
+
+.card h3{
+	color: white;
+text-align:center;
+font-size:21px;
+}
+#texh3{
+	font-size:28px;
+
+}
+#btnn{
+	text-align:center;
+	float:center;
+}
+p{
+	color:#ccdefd;
+	font-size:17px;
+	text-align:center;
+
+}
